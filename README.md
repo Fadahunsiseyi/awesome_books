@@ -12,7 +12,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://sameh080081.github.io/MyAwsomeBooks/)
+[Live Demo Link]()
 
 ## Authors
 
